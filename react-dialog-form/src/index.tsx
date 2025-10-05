@@ -230,7 +230,7 @@ const Dialog = ({ isOpen, onClose, title, children, width = 1152, minHeight = 30
               style={{
                 border: "none",
                 background: "transparent",
-                fontSize: "20px",
+                fontSize: "26px",
                 cursor: "pointer",
                 lineHeight: 1
               }}
